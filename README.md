@@ -1,5 +1,5 @@
 # SnapWiz AI - Doctor Assistant Chat Bot
-## [Visit our website]([ https://snapwizai.web.app](https://ai-doctor-ke8y.onrender.com/))
+## [Visit our website]( https://ai-doctor-ke8y.onrender.com)
 ![Screenshot 2024-04-07 010320](https://github.com/Seja-menath-dev/SnapWiz-Ai-Medicalbot/assets/166058763/e042f79e-88c5-47e2-9a1a-fbbfd19d50bd)
 
 
