@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to SnapWiz AI - Doctor Assistant Chat Bot! Developed by Meta Colombo, this innovative chat bot is designed to assist both healthcare professionals and patients alike. Whether you're a doctor seeking to streamline patient consultations or an individual looking for medical advice, SnapWiz is here to support you every step of the way.
+Welcome to SnapWiz AI - Doctor Assistant Chat Bot! Developed by Pettah Ai, this innovative chat bot is designed to assist both healthcare professionals and patients alike. Whether you're a doctor seeking to streamline patient consultations or an individual looking for medical advice, SnapWiz is here to support you every step of the way.
 
 ## How to Use
 
