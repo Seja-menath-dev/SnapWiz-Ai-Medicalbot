@@ -34,3 +34,4 @@ For further inquiries or assistance, please reach out to us at [Contact here](se
 
 SnapWiz AI - Doctor Assistant Chat Bot is powered by Pettah Ai, a leading developer in AI-powered solutions. Developed by Seja Menath, our mission is to harness the power of artificial intelligence to revolutionize the healthcare industry and improve patient outcomes.
 
+
